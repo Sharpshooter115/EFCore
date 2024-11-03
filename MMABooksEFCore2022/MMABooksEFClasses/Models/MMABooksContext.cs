@@ -32,7 +32,7 @@ namespace MMABooksEFClasses.Models
             {
                 var serverversion = new MySqlServerVersion(new Version(8, 0));
                 optionsBuilder.UseMySql(connectionString, serverversion);
-                t
+               
      
             }
         }
