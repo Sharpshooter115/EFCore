@@ -28,7 +28,7 @@ namespace MMABooksTests
         public void GetAllTest()
         {
             states = dbContext.States.OrderBy(s => s.StateName).ToList();
-            Assert.AreEqual(52, states.Count);
+            Assert.AreEqual(53, states.Count);
             Assert.AreEqual("Alabama", states[0].StateName);
             PrintAll(states);
         }
@@ -73,7 +73,12 @@ namespace MMABooksTests
         [Test]
         public void CreateTest()
         {
-
+            s = new State();
+            s.StateCode = "HI";
+            s.StateName = "Hawaii";
+            dbContext.States.Add(s);
+            dbContext.SaveChanges();
+            Assert.IsNotNull(dbContext.States.Find("HI"));
         }
 
         [Test]
