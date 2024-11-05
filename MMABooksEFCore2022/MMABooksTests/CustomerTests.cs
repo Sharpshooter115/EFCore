@@ -86,6 +86,10 @@ namespace MMABooksTests
         [Test]
         public void DeleteTest()
         {
+            c = dbContext.Customers.Find(20);
+            dbContext.Customers.Remove(c);
+            dbContext.SaveChanges();
+            Assert.IsNull(dbContext.Customers.Find(20));
 
         }
 
