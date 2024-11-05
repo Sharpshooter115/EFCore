@@ -57,7 +57,13 @@ namespace MMABooksTests
         [Test]
         public void GetWithInvoicesTest()
         {
-           // get the customer whose id is 20 and all of the invoices for that customer
+            c = dbContext.Customers.Include(c => c.Invoices)
+                           .Where(c => c.CustomerId == 20)
+                           .SingleOrDefault();
+            Assert.IsNotNull(c);
+            Assert.AreEqual(20, c.CustomerId);
+            Assert.AreEqual(3, c.Invoices.Count);
+            Console.WriteLine(c);
         }
 
         [Test]
