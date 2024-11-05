@@ -69,6 +69,11 @@ namespace MMABooksTests
         [Test]
         public void DeleteTest()
         {
+            dbContext.Database.ExecuteSqlRaw("DELETE FROM InvoiceLineItems WHERE ProductCode = 'A4CS'");
+            product = dbContext.Products.Find("A4CS");
+            dbContext.Products.Remove(product);
+            dbContext.SaveChanges();
+            Assert.IsNull(dbContext.Products.Find("A4CS"));
 
         }
 
@@ -87,7 +92,8 @@ namespace MMABooksTests
         {
             foreach (var p in products)
             {
-                Console.WriteLine($"Product Code: {p.ProductCode}, Description: {p.Description}, Unit Price: {p.UnitPrice}, On Hand Quantity: {p.OnHandQuantity}");
+                Console.WriteLine($"Product Code: {p.ProductCode}, Description: {p.Description}," +
+                    $" Unit Price: {p.UnitPrice}, On Hand Quantity: {p.OnHandQuantity}");
             }
         }
     }
