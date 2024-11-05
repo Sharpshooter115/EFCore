@@ -96,6 +96,16 @@ namespace MMABooksTests
         [Test]
         public void CreateTest()
         {
+            c = new Customer();
+            c.Name = "Chamberland, Sarah";
+            c.Address = "1942 S. Gaydon Avenue";
+            c.City = "Doraville";
+            c.StateCode = "CA";
+            c.ZipCode = "30340";
+            dbContext.Customers.Add(c);
+            dbContext.SaveChanges();
+            Assert.IsNotNull(dbContext.Customers.Find(c.CustomerId));
+
 
         }
 
