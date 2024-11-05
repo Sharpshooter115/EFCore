@@ -26,6 +26,10 @@ namespace MMABooksTests
         [Test]
         public void GetAllTest()
         {
+            customers = dbContext.Customers.OrderBy(c => c.Name).ToList();
+            Assert.AreEqual(696, customers.Count);
+            Console.WriteLine("All Customers:");
+            PrintAll(customers);
         }
 
         [Test]
