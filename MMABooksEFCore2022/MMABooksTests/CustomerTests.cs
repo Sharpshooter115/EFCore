@@ -105,13 +105,18 @@ namespace MMABooksTests
             dbContext.Customers.Add(c);
             dbContext.SaveChanges();
             Assert.IsNotNull(dbContext.Customers.Find(c.CustomerId));
-
-
         }
 
         [Test]
         public void UpdateTest()
         {
+            c = dbContext.Customers.Find(20);
+            Assert.IsNotNull(c);
+            c.Name = "Chamberland, Sarahnew";
+            dbContext.Customers.Update(c);
+            dbContext.SaveChanges();
+            c = dbContext.Customers.Find(20);
+            Assert.AreEqual("Chamberland, Sarahnew", c.Name);
 
         }
 
