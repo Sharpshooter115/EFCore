@@ -94,6 +94,7 @@ namespace MMABooksTests
             dbContext.Products.Add(product);
             dbContext.SaveChanges();
             Assert.IsNotNull(dbContext.Products.Find("A4CS"));
+            g
         }
 
         [Test]
