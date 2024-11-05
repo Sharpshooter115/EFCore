@@ -37,6 +37,10 @@ namespace MMABooksTests
         [Test]
         public void GetByPrimaryKeyTest()
         {
+            var product = dbContext.Products.Find("A4CS");
+            Assert.IsNotNull(product);
+            Assert.AreEqual("Murach's ASP.NET 4 Web Programming with C# 2010", product.Description);
+            Console.WriteLine(product);
         }
 
         [Test]
