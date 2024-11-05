@@ -1,0 +1,284 @@
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\testhost.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\mySqlSettings.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\testhost.exe
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.engine.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.deps.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.runtimeconfig.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.pdb
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MySql.Data.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ZstdNet.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.framework.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.csproj.AssemblyReference.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.AssemblyInfoInputs.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.AssemblyInfo.cs
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.csproj.CoreCompileInputs.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.csproj.CopyComplete
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\refint\MMABooksTests.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.pdb
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.genruntimeconfig.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\ref\MMABooksTests.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MySqlConnector.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\testhost.exe
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\testhost.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\mySqlSettings.json
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.deps.json
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.runtimeconfig.json
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksTests.pdb
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.csproj.AssemblyReference.cache
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.AssemblyInfoInputs.cache
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.AssemblyInfo.cs
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.csproj.CoreCompileInputs.cache
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.csproj.CopyComplete
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\refint\MMABooksTests.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.pdb
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.genruntimeconfig.cache
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\ref\MMABooksTests.dll
