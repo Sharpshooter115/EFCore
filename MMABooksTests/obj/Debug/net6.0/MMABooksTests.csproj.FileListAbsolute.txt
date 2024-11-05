@@ -282,3 +282,4 @@ C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_Starte
 C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.pdb
 C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.genruntimeconfig.cache
 C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\ref\MMABooksTests.dll
+C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\obj\Debug\net6.0\MMABooksTests.sourcelink.json

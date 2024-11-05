@@ -94,12 +94,23 @@ namespace MMABooksTests
             dbContext.Products.Add(product);
             dbContext.SaveChanges();
             Assert.IsNotNull(dbContext.Products.Find("A4CS"));
-            g
+            
         }
 
         [Test]
         public void UpdateTest()
         {
+            product = dbContext.Products.Find("A4CS");
+            Assert.IsNotNull(product);
+            product.Description = "Murach's ASP.NET 4 Web Programming";
+            product.UnitPrice = 59.99m;
+            product.OnHandQuantity = 5000;
+            dbContext.Products.Update(product);
+            dbContext.SaveChanges();
+            product = dbContext.Products.Find("A4CS");
+            Assert.AreEqual("Murach's ASP.NET 4 Web Programming", product.Description);
+            Assert.AreEqual(59.99m, product.UnitPrice);
+            Assert.AreEqual(5000, product.OnHandQuantity);
 
         }
         private void PrintAll(List<Products> products)
