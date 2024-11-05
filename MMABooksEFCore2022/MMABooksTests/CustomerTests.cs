@@ -28,13 +28,17 @@ namespace MMABooksTests
         {
             customers = dbContext.Customers.OrderBy(c => c.Name).ToList();
             Assert.AreEqual(696, customers.Count);
-            Console.WriteLine("All Customers:");
+            Assert.AreEqual("Abeyatunge, Derek", customers[0].Name);
             PrintAll(customers);
         }
 
         [Test]
         public void GetByPrimaryKeyTest()
         {
+            c = dbContext.Customers.Find(1);
+            Assert.IsNotNull(c);
+            Assert.AreEqual("Molunguri, A", c.Name);
+            Console.WriteLine(c);
         }
 
         [Test]
