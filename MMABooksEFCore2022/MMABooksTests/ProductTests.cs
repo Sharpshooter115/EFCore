@@ -46,7 +46,10 @@ namespace MMABooksTests
         [Test]
         public void GetUsingWhere()
         {
-            // get a list of all of the products that have a unit price of 56.50
+            var products = dbContext.Products.Where(p => p.UnitPrice == 56.50m).OrderBy(p => p.ProductCode).ToList();
+            Assert.AreEqual(7, products.Count);
+            Assert.AreEqual(56.50m, products[0].UnitPrice);
+            PrintAll(products);
         }
 
         [Test]
