@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b18I8GZtAQbi1hSd7gE328lOEk68HrVXyfwgW4DgUEaGouE23NsHqu490/oolgbv6MoXUYcTd25vZLXchoSOFA==",
+  "dgSpecHash": "HJyD1g/T4x7wVGbvipT3AihPs243FkaWgIVKacuKo1/oNDqRBMsdCSAfz1tn336AWqwbE9vIPX8KY1MwdffGcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brody Herrera\\Desktop\\New folder (3)\\Lab4 - EFCoreImplementation_StarterFiles\\Lab4 - EFCoreImplementation_StarterFiles\\MMABooksEFCore2022\\MMABooksEFClasses\\MMABooksEFClasses.csproj",
+  "projectFilePath": "C:\\Users\\Brody Herrera\\Source\\Repos\\Sharpshooter115\\EFCore\\MMABooksEFClasses\\MMABooksEFClasses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brody Herrera\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Brody Herrera\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
