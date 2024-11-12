@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MMABooksTests
-build_property.ProjectDir = C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksTests\
+build_property.ProjectDir = C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

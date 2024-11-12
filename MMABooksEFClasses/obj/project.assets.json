@@ -2042,11 +2042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brody Herrera\\Source\\Repos\\Sharpshooter115\\EFCore\\MMABooksEFClasses\\MMABooksEFClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Brody Herrera\\Desktop\\New folder (3)\\Lab4 - EFCoreImplementation_StarterFiles\\Lab4 - EFCoreImplementation_StarterFiles\\MMABooksEFCore2022\\MMABooksEFClasses\\MMABooksEFClasses.csproj",
       "projectName": "MMABooksEFClasses",
-      "projectPath": "C:\\Users\\Brody Herrera\\Source\\Repos\\Sharpshooter115\\EFCore\\MMABooksEFClasses\\MMABooksEFClasses.csproj",
+      "projectPath": "C:\\Users\\Brody Herrera\\Desktop\\New folder (3)\\Lab4 - EFCoreImplementation_StarterFiles\\Lab4 - EFCoreImplementation_StarterFiles\\MMABooksEFCore2022\\MMABooksEFClasses\\MMABooksEFClasses.csproj",
       "packagesPath": "C:\\Users\\Brody Herrera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brody Herrera\\Source\\Repos\\Sharpshooter115\\EFCore\\MMABooksEFClasses\\obj\\",
+      "outputPath": "C:\\Users\\Brody Herrera\\Desktop\\New folder (3)\\Lab4 - EFCoreImplementation_StarterFiles\\Lab4 - EFCoreImplementation_StarterFiles\\MMABooksEFCore2022\\MMABooksEFClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
