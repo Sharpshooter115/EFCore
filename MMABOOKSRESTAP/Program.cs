@@ -1,3 +1,4 @@
+using Google.Protobuf.WellKnownTypes;
 using Microsoft.Extensions.Options;
 using MMABooksEFClasses.Models;
 
@@ -38,6 +39,10 @@ namespace MMABOOKSRESTAP
             }
 
            // app.UseHttpsRedirection();
+
+            // ENABLES THE CORS POLICY
+            app.UseCors();
+
 
             app.UseAuthorization();
 
