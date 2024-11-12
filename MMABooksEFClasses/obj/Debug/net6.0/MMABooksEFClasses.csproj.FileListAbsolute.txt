@@ -30,3 +30,20 @@ C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_Starte
 C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.pdb
 C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.genruntimeconfig.cache
 C:\Users\Brody Herrera\Desktop\New folder (3)\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\ref\MMABooksEFClasses.dll
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettings.json
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.deps.json
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.runtimeconfig.json
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.AssemblyReference.cache
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfoInputs.cache
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfo.cs
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.CoreCompileInputs.cache
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.sourcelink.json
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.dll
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\refint\MMABooksEFClasses.dll
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.genruntimeconfig.cache
+C:\Users\Brody Herrera\Source\Repos\Sharpshooter115\EFCore\MMABooksEFClasses\obj\Debug\net6.0\ref\MMABooksEFClasses.dll
