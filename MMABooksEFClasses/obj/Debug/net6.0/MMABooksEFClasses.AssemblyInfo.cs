@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MMABooksEFClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bc022dd2dc455b9622b3da539d1c3d48377d5ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c65c9a9706e3bfc0549e72275b7521e566520028")]
 [assembly: System.Reflection.AssemblyProductAttribute("MMABooksEFClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MMABooksEFClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
